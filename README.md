@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ayberk</h1>
-<h3 align="center">Senior python developer and pentester from Turkey.</h3>
+<h1 align="center">Hi 👋, I'm Ayberk Irmak</h1>
+<h3 align="center">Python developer & penetration tester from Turkey.</h3>
 
-- 🌱 I’m currently learning **Reinforcement learning**
+- 🔐 I build offensive-security tooling and systems software in Python and C++
+- 🌱 I’m currently learning **Reinforcement Learning**
+- 💬 Ask me about **Python, cyber security, systems programming**
+- 📫 How to reach me: **ayberk.sec@proton.me**
 
-- 💬 Ask me about **python, cyber security**
+<h3 align="left">Featured projects:</h3>
 
-- 📫 How to reach me **pytorch3@proton.me**
+- 🦉 **[reconowl](https://github.com/Ayberk-Irmak/reconowl)** — Recon → scan → report CLI penetration-testing orchestrator (native checks + nmap/nuclei/httpx/sqlmap), evidence-based confirmation, CVSS/SARIF reporting. Authorized use only.
+- 🌊 **[libphantom-sonar](https://github.com/Ayberk-Irmak/libphantom-sonar)** — Real-time ocean-acoustics & sonar simulation in C++20. Zero dependencies, zero heap allocation; validated against Bellhop, UNESCO and ISO 9613-1.
+- 🔑 **[USB-Key](https://github.com/Ayberk-Irmak/USB-Key)** — Turn a USB device into a hardware security key.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/Ayberk-Irmak" target="_blank" rel="noreferrer">github.com/Ayberk-Irmak</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
